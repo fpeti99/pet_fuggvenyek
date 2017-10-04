@@ -1,4 +1,6 @@
 # pet_fuggvenyek
+//ELSO PÉLDA BEVEZETÉS ÖSSZEADAS
+
 
 static int osszead(int elso_szam, int masodik_szam)
         {
