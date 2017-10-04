@@ -1,5 +1,8 @@
 # pet_fuggvenyek
 
+// FUGGVÉNY
+
+
 static int osszead(int elso_szam, int masodik_szam)
         {
             int osszeg;
