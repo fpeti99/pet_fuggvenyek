@@ -1,6 +1,7 @@
 # pet_fuggvenyek
-//ELSO PÉLDA BEVEZETÉS ÖSSZEADAS
-
+//ELSO PÉLDA BEVEZETÉS ÖSSZEADAS------------------------------------------------
+asdasdasd
+asd
 
 static int osszead(int elso_szam, int masodik_szam)
         {
@@ -29,3 +30,4 @@ static int osszead(int elso_szam, int masodik_szam)
 
 
             Console.ReadLine();
+
